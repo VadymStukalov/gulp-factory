@@ -1,0 +1,10 @@
+@import "./blocks/*.scss";
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background-image: url("./../img/resins.png");
+  background-size: cover;
+}
